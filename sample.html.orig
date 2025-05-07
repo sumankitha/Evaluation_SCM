@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+<this is a source code>
+         <html>
+	<head>
+              <tittle>the html code</tittle>
+         <body>
+		 <p>this is a paragraph</p>
+		 <headdder>this is a heading</headder>	          
+=======
+date 7/2025
+<html>
+	<head>
+              <tittle>the html code</tittle>
+	      <div>
+		      this is a div tag</div>
+	      </body>
+</html>the end
+>>>>>>> B3
